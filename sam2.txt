@@ -1,2 +1,2 @@
-hi 
-hello world
+This is the second file
+Another file is going to commit
