@@ -2,5 +2,3 @@ This is the second file
 Another file is going to commit
 
 Second commit
-
-third line
